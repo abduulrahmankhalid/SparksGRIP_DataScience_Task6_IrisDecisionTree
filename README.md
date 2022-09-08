@@ -1,2 +1,3 @@
 # SparksGRIP_DataScience_Task6_IrisDecisionTree
-This repository is part of the sparks foundation GRIP internship in Data Science and Buisness Analytics , Task 6 : Predcition using Decision Tree Algorithm - Decision Tree on iris dataset
+This repository is part of the sparks foundation GRIP internship in Data Science and Buisness Analytics ,
+Task 6 : Predcition using Decision Tree Algorithm - Decision Tree on iris dataset
